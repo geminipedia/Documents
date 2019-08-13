@@ -4,7 +4,7 @@ tags: Gemini Project
 ---
 
 :::info
-Read this in HackMD to get better reading experience
+Visit [HackMD version](https://hackmd.io/@aries0d0f/SkpMgbi-S) to get better reading experience
 :::
 
 # Gemini Projetc
