@@ -3,6 +3,10 @@ title: Gemini Project
 tags: Gemini Project
 ---
 
+:::info
+Read this in HackMD to get better reading experience
+:::
+
 # Gemini Projetc
 
 ## Pollux
